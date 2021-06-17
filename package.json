@@ -1,0 +1,26 @@
+{
+  "name": "three-boilerplate",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "npx parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aleksejdom"
+  },
+  "author": "aleksej domovec",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-glsl": "^2.0.0-beta.2",
+    "@parcel/transformer-image": "^2.0.0-beta.2",
+    "fontfaceobserver": "^2.1.0",
+    "glslify-loader": "^2.0.0",
+    "gsap": "^3.6.1",
+    "imagesloaded": "^4.1.4",
+    "normalize-wheel": "^1.0.1",
+    "npm": "^7.14.0",
+    "ogl": "^0.0.73",
+    "prefix": "^1.0.0",
+    "three": "^0.129.0"
+  }
+}
